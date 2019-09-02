@@ -2,7 +2,6 @@ package com.yubraj.lazy;
 
 import org.springframework.stereotype.Service;
 
-//@Lazy
 @Service
 public class LazyService {
 
